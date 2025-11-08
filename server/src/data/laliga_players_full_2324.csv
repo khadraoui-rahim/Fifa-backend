@@ -1,0 +1,401 @@
+name,position,overall,age,nationality,club
+Fernando Pacheco,GK,76,30,Spain,Alaves
+Antonio Sivera,GK,72,28,Spain,Alaves
+Viktor Tsyhankov,FWD,74,25,Ukraine,Alaves
+Rubén Duarte,DEF,76,29,Spain,Alaves
+Martin Aguirregabiria,DEF,75,27,Spain,Alaves
+Tomas Vaclik,GK,71,34,Czech Republic,Alaves
+Luis Rioja,MID,74,32,Spain,Alaves
+Vigaray,DEF,73,30,Spain,Alaves
+Calleri,FWD,75,32,Argentina,Alaves
+Javier Ontiveros,MID,73,26,Spain,Alaves
+Joaquin Muñoz,MID,70,22,Spain,Alaves
+Ximo Navarro,DEF,72,33,Spain,Alaves
+Deyverson,FWD,72,33,Brazil,Alaves
+Rubén Sobrino,FWD,70,30,Spain,Alaves
+Ruben Duarte,DEF,76,29,Spain,Alaves
+Victor Laguardia,DEF,74,33,Spain,Alaves
+Ely,DEF,72,29,Spain,Alaves
+Hector Font,MID,68,21,Spain,Alaves
+Gonzalo Escalante,MID,75,32,Argentina,Alaves
+Sergio Buenacasa,FWD,69,24,Spain,Alaves
+Fernando Marcal,DEF,72,33,Brazil,Almeria
+Fernando Martinez,GK,73,29,Spain,Almeria
+Edgar Gonzalez,DEF,71,25,Spain,Almeria
+Ezequiel Avila,FWD,73,27,Argentina,Almeria
+Luis Suarez,FWD,76,26,Uruguay,Almeria
+Ramazan Ozturk,MID,70,24,Turkey,Almeria
+Yahia Fofana,MID,72,25,France,Almeria
+Aitor Fernandez,GK,75,30,Spain,Almeria
+Lucas Robertone,MID,75,27,Argentina,Almeria
+Ruben Alcaraz,MID,74,31,Spain,Almeria
+Gonzalo Melero,MID,76,29,Spain,Almeria
+Viedma,DEF,70,24,Spain,Almeria
+Ibrahim Traore,DEF,73,27,Ivory Coast,Almeria
+Javier Ontiveros,MID,73,26,Spain,Almeria
+Kike,FWD,74,30,Spain,Almeria
+Largie Ramazani,FWD,72,22,Belgium,Almeria
+Rui Silva,GK,79,31,Portugal,Almeria
+Mahamadou Diawara,MID,71,21,Mali,Almeria
+Andres Martin,MID,70,23,Spain,Almeria
+Darwin Machis,FWD,73,30,Venezuela,Almeria
+Iago Herrerin,GK,74,33,Spain,Athletic Club
+Unai Simon,GK,81,26,Spain,Athletic Club
+Aymeric Laporte,DEF,85,29,Spain,Athletic Club
+Inigo Martinez,DEF,82,33,Spain,Athletic Club
+Yeray Alvarez,DEF,80,28,Spain,Athletic Club
+Iker Muniain,MID,80,30,Spain,Athletic Club
+Oihan Sancet,MID,79,23,Spain,Athletic Club
+Nico Williams,FWD,78,20,Spain,Athletic Club
+Alex Berenguer,FWD,76,29,Spain,Athletic Club
+Iker Unzueta,MID,70,21,Spain,Athletic Club
+Sergio Canales,MID,84,31,Spain,Athletic Club
+Asier Villalibre,FWD,74,25,Spain,Athletic Club
+Jordi Alba,DEF,83,34,Spain,Athletic Club
+Mikel Vesga,MID,75,29,Spain,Athletic Club
+Benat Etxebarria,MID,72,33,Spain,Athletic Club
+Aritz Aduriz,FWD,71,40,Spain,Athletic Club
+Ander Capa,DEF,75,31,Spain,Athletic Club
+Ibai Gomez,MID,73,34,Spain,Athletic Club
+Unai Vencedor,MID,74,22,Spain,Athletic Club
+Alex Remiro,GK,78,29,Spain,Athletic Club
+Jan Oblak,GK,90,31,Slovenia,Atletico Madrid
+Ivo Grbic,GK,75,28,Croatia,Atletico Madrid
+Jose Gimenez,DEF,84,29,Uruguay,Atletico Madrid
+Mario Hermoso,DEF,81,29,Spain,Atletico Madrid
+Axel Witsel,MID,80,35,Belgium,Atletico Madrid
+Cesar Azpilicueta,DEF,80,34,Spain,Atletico Madrid
+Reinildo,DEF,79,30,Mozambique,Atletico Madrid
+Nahuel Molina,DEF,82,26,Argentina,Atletico Madrid
+Rodrigo De Paul,MID,83,30,Argentina,Atletico Madrid
+Koke,MID,83,32,Spain,Atletico Madrid
+Saul Niguez,MID,80,29,Spain,Atletico Madrid
+Marcos Llorente,MID,82,28,Spain,Atletico Madrid
+Pablo Barrios,MID,76,21,Spain,Atletico Madrid
+Angel Correa,FWD,81,29,Argentina,Atletico Madrid
+Antoine Griezmann,FWD,88,33,France,Atletico Madrid
+Alvaro Morata,FWD,83,32,Spain,Atletico Madrid
+Memphis Depay,FWD,81,30,Netherlands,Atletico Madrid
+Samuel Lino,FWD,79,24,Brazil,Atletico Madrid
+Rodrigo Riquelme,FWD,77,23,Spain,Atletico Madrid
+Stefan Savic,DEF,80,33,Montenegro,Atletico Madrid
+Marc-Andre ter Stegen,GK,89,31,Germany,Barcelona
+Inaki Pena,GK,74,25,Spain,Barcelona
+Ronald Araujo,DEF,86,25,Uruguay,Barcelona
+Jules Kounde,DEF,84,25,France,Barcelona
+Andreas Christensen,DEF,83,28,Denmark,Barcelona
+Alejandro Balde,DEF,81,20,Spain,Barcelona
+Joao Cancelo,DEF,85,29,Portugal,Barcelona
+Marcos Alonso,DEF,78,33,Spain,Barcelona
+Sergi Roberto,DEF,79,32,Spain,Barcelona
+Frenkie de Jong,MID,87,27,Netherlands,Barcelona
+Pedri,MID,86,21,Spain,Barcelona
+Gavi,MID,84,20,Spain,Barcelona
+Ilkay Gundogan,MID,86,33,Germany,Barcelona
+Oriol Romeu,MID,79,32,Spain,Barcelona
+Fermin Lopez,MID,77,21,Spain,Barcelona
+Raphinha,FWD,84,28,Brazil,Barcelona
+Ferran Torres,FWD,82,24,Spain,Barcelona
+Robert Lewandowski,FWD,90,35,Poland,Barcelona
+Lamine Yamal,FWD,78,17,Spain,Barcelona
+Joao Felix,FWD,83,24,Portugal,Barcelona
+Djordje Petrovic,GK,74,27,Serbia,Cadiz
+Julio Iglesias,GK,70,23,Spain,Cadiz
+Fali,DEF,72,32,Spain,Cadiz
+Alvaro Negredo,FWD,71,38,Spain,Cadiz
+Jorge Cuenca,DEF,74,25,Spain,Cadiz
+Jairo Izquierdo,DEF,73,28,Spain,Cadiz
+Salvi Sanchez,MID,72,33,Spain,Cadiz
+Ivan Alejo,MID,73,31,Spain,Cadiz
+Lucas Perez,FWD,75,33,Spain,Cadiz
+Rubén Sobrino,FWD,70,30,Spain,Cadiz
+Ryan Borris,MID,69,21,Ghana,Cadiz
+Jose Mari,MID,74,33,Spain,Cadiz
+Ruben Alcaraz,MID,74,31,Spain,Cadiz
+Jairo,DEF,71,24,Spain,Cadiz
+Caye Quintana,FWD,70,30,Spain,Cadiz
+Edu Expósito,MID,75,26,Spain,Cadiz
+Jose Manuel 'Chema' Rodriguez,DEF,69,29,Spain,Cadiz
+Antoñin,FWD,71,29,Spain,Cadiz
+Marco Sangalli,MID,70,32,Spain,Cadiz
+Iván Salcedo,DEF,68,21,Spain,Cadiz
+Ivan Villar,GK,74,26,Spain,Celta Vigo
+Agustin Marchesin,GK,77,36,Argentina,Celta Vigo
+Jordi Masip,GK,72,34,Spain,Celta Vigo
+Unai Nunez,DEF,78,26,Spain,Celta Vigo
+Gustavo Cabral,DEF,73,37,Argentina,Celta Vigo
+Joseph Aidoo,DEF,76,27,Ghana,Celta Vigo
+Jose Fonte,DEF,72,41,Portugal,Celta Vigo
+Denis Suarez,MID,76,29,Spain,Celta Vigo
+Fran Beltran,MID,74,24,Spain,Celta Vigo
+Iago Aspas,FWD,80,35,Spain,Celta Vigo
+Gabriel Veiga,MID,77,20,Spain,Celta Vigo
+Carles Perez,FWD,74,25,Spain,Celta Vigo
+Jorgen Strand Larsen,FWD,76,23,Norway,Celta Vigo
+Mika Mendez,DEF,68,20,Spain,Celta Vigo
+Araujo,DEF,69,22,Spain,Celta Vigo
+Matias Vina,DEF,74,26,Uruguay,Celta Vigo
+Santi Mina,FWD,74,27,Spain,Celta Vigo
+Brais Mendez,MID,79,27,Spain,Celta Vigo
+Deniz,MID,70,22,Turkey,Celta Vigo
+Vasco Fernandes,MID,69,21,Portugal,Celta Vigo
+David Soria,GK,75,30,Spain,Getafe
+Molina,GK,71,25,Spain,Getafe
+Djené Dakonam,DEF,77,30,Togo,Getafe
+Cucurella,DEF,80,24,Spain,Getafe
+Borja Mayoral,FWD,75,26,Spain,Getafe
+Enes Unal,FWD,76,25,Turkey,Getafe
+Nemanja Maksimovic,MID,74,28,Serbia,Getafe
+Alexis Alvarado,MID,70,21,Spain,Getafe
+Marc Cucurella,DEF,80,24,Spain,Getafe
+Mathieu Flamini,MID,68,38,France,Getafe
+Pablo Maffeo,DEF,75,27,Spain,Getafe
+Damián Suárez,DEF,76,33,Uruguay,Getafe
+Leandro Chichizola,GK,72,30,Argentina,Getafe
+Marc CucurellaDup,DEF,70,24,Spain,Getafe
+Djene,DEF,77,30,Togo,Getafe
+Mauro Arambarri,MID,75,27,Uruguay,Getafe
+Marc Guillen,MID,69,22,Spain,Getafe
+Jorge Molina,FWD,73,39,Spain,Getafe
+Samu Casado,GK,68,23,Spain,Getafe
+Olivera,DEF,72,24,Uruguay,Getafe
+Yassine Bounou,GK,83,33,Morocco,Girona
+Cristhian Stuani,FWD,79,36,Uruguay,Girona
+Aleix Garcia,MID,77,26,Spain,Girona
+Ibrahima Kone,DEF,74,24,France,Girona
+Juanpe,DEF,75,30,Spain,Girona
+Valery Fernandez,DEF,72,23,Colombia,Girona
+Sergi Cardona,DEF,70,22,Spain,Girona
+Martin Zubimendi,MID,79,24,Spain,Girona
+Anthony Lozano,FWD,74,31,Honduras,Girona
+Yangel Herrera,MID,78,25,Venezuela,Girona
+Alejandro Baena,FWD,70,20,Spain,Girona
+Aleix GarciaDup,MID,70,26,Spain,Girona
+Izan Lopez,GK,70,22,Spain,Girona
+Portu,FWD,78,30,Spain,Girona
+Alex Granell,MID,73,33,Spain,Girona
+Cristhian,FWD,69,28,Uruguay,Girona
+Aleix Vidal,DEF,74,31,Spain,Girona
+Gorka Iraizoz,GK,68,41,Spain,Girona
+Timor Tomas,DEF,69,28,Spain,Girona
+Stole Dimitrievski,GK,76,30,North Macedonia,Girona
+Rui Silva,GK,79,31,Portugal,Granada
+Luis Maximiano,GK,76,27,Portugal,Granada
+Domingos Duarte,DEF,78,27,Portugal,Granada
+Neva,DEF,73,24,Spain,Granada
+Ignacio Camacho,MID,72,31,Spain,Granada
+Jesus Vallejo,DEF,76,26,Spain,Granada
+Angel Montoro,MID,70,33,Spain,Granada
+Samir Ben Yedder,FWD,84,33,Tunisia,Granada
+Alvaro Vadillo,MID,74,31,Spain,Granada
+Antonio Puertas,FWD,75,31,Spain,Granada
+Sergio Escudero,DEF,74,33,Spain,Granada
+Gonalons,MID,72,35,France,Granada
+Antonio Sanabria,FWD,75,27,Paraguay,Granada
+Quini,FWD,70,25,Spain,Granada
+Domingos,DEF,70,22,Portugal,Granada
+Yangel Herrera,MID,78,25,Venezuela,Granada
+Toni Villa,MID,73,26,Spain,Granada
+Cucho Hernandez,FWD,76,25,Colombia,Granada
+Luis SuarezDup,FWD,70,27,Uruguay,Granada
+Pedro Porro,DEF,79,24,Spain,Granada
+Alvaro Valles,GK,72,27,Spain,Las Palmas
+Raul Fernandez,GK,76,28,Spain,Las Palmas
+Eric Curbelo,DEF,72,27,Spain,Las Palmas
+Pedro Bigas,DEF,70,31,Spain,Las Palmas
+Jesurion,DEF,69,22,Spain,Las Palmas
+Jonathan Viera,MID,79,33,Spain,Las Palmas
+Maikel Mesa,MID,72,32,Spain,Las Palmas
+Jesé Rodriguez,FWD,74,30,Spain,Las Palmas
+Alejandro Pozo,MID,71,25,Spain,Las Palmas
+Aridai Cabrera,MID,70,32,Spain,Las Palmas
+Jesús Areso,DEF,69,22,Spain,Las Palmas
+Kike Perez,MID,72,24,Spain,Las Palmas
+Choco Lozano,FWD,74,32,Honduras,Las Palmas
+Jonathan VieraDup,MID,70,33,Spain,Las Palmas
+AraujoDup,DEF,68,20,Uruguay,Las Palmas
+Alexander Gonzalez,FWD,70,26,Spain,Las Palmas
+Kaleemullah,FWD,68,27,Pakistan,Las Palmas
+Sergio Rufo,DEF,67,21,Spain,Las Palmas
+Martin Ojeda,MID,71,26,Argentina,Las Palmas
+Enzo Loiodice,MID,70,22,France,Las Palmas
+Javier Manzano,GK,72,24,Spain,Mallorca
+Dominik Greif,GK,75,27,Slovakia,Mallorca
+Antonio Sanchez,DEF,72,28,Spain,Mallorca
+Vedat Muriqi,FWD,75,29,Kosovo,Mallorca
+Salva Sevilla,MID,74,36,Spain,Mallorca
+Ibrahim Amadou,MID,72,29,Cameroon,Mallorca
+Lee Kang-in,MID,81,22,South Korea,Mallorca
+Takefusa Kubo,MID,83,22,Japan,Mallorca
+Marco Asensio,FWD,83,28,Spain,Mallorca
+Martin Valjent,DEF,76,28,Slovakia,Mallorca
+Jordi Mboula,FWD,72,23,Spain,Mallorca
+Lumor,DEF,70,25,Ghana,Mallorca
+Pervis Estupinan,DEF,80,26,Ecuador,Mallorca
+Aleix Febas,MID,71,27,Spain,Mallorca
+Fran Guterrez,MID,69,21,Spain,Mallorca
+Kleber,FWD,70,24,Brazil,Mallorca
+Jaume Costa,DEF,70,34,Spain,Mallorca
+Salva Ruiz,DEF,69,26,Spain,Mallorca
+Iago Jaime,MID,68,20,Spain,Mallorca
+Kiko Casilla,GK,71,35,Spain,Mallorca
+Sergio Herrera,GK,76,30,Spain,Osasuna
+Juan Perez,GK,70,24,Spain,Osasuna
+Unai Garcia,DEF,76,27,Spain,Osasuna
+Nacho Vidal,DEF,74,30,Spain,Osasuna
+David Garcia,DEF,77,31,Spain,Osasuna
+Jon Moncayola,MID,77,25,Spain,Osasuna
+Oier Zarraga,MID,73,24,Spain,Osasuna
+Chimy Avila,FWD,78,27,Argentina,Osasuna
+Kike Barja,FWD,71,26,Spain,Osasuna
+Lucas Torró,MID,75,31,Spain,Osasuna
+Iker MuniainDup,MID,70,30,Spain,Osasuna
+Roberto Torres,MID,74,33,Spain,Osasuna
+Santiago Garcia,DEF,72,22,Spain,Osasuna
+Brandon Thomas,FWD,70,28,Spain,Osasuna
+Marta,MID,68,21,Spain,Osasuna
+Rubén Garcia,MID,75,31,Spain,Osasuna
+Aimar Oroz,MID,72,22,Spain,Osasuna
+Joel Martínez,DEF,69,22,Spain,Osasuna
+Juan Cruz,DEF,70,25,Spain,Osasuna
+Jose Arnaiz,FWD,71,26,Spain,Osasuna
+Stole Dimitrievski,GK,76,30,North Macedonia,Rayo Vallecano
+Alvaro Garcia,FWD,78,29,Spain,Rayo Vallecano
+Sergio Camello,FWD,70,23,Spain,Rayo Vallecano
+Iago HerrerinDup,GK,70,33,Spain,Rayo Vallecano
+Isi Palazon,MID,75,32,Spain,Rayo Vallecano
+Adrian Embarba,MID,74,31,Spain,Rayo Vallecano
+Oscar Trejo,MID,77,33,Argentina,Rayo Vallecano
+Radamel Falcao,FWD,78,38,Colombia,Rayo Vallecano
+Unai Lopez,MID,74,26,Spain,Rayo Vallecano
+Pathon Masopust,MID,70,24,Czech Republic,Rayo Vallecano
+Sergio Ramos,DEF,78,38,Spain,Rayo Vallecano
+Diego Lopez,GK,79,41,Spain,Rayo Vallecano
+Franco Zuculini,MID,69,31,Argentina,Rayo Vallecano
+Erick Cabaco,DEF,72,26,Uruguay,Rayo Vallecano
+Sergio Villar,DEF,68,23,Spain,Rayo Vallecano
+Alvaro GarciaDup,FWD,70,29,Spain,Rayo Vallecano
+Lucas Puig,DEF,67,22,France,Rayo Vallecano
+Oscar Valentin,MID,67,21,Spain,Rayo Vallecano
+Arbilla,DEF,69,33,Spain,Rayo Vallecano
+Ruben,FWD,68,24,Spain,Rayo Vallecano
+Rui SilvaDup,GK,79,31,Portugal,Real Betis
+Rui Silva,GK,79,31,Portugal,Real Betis
+Claudio Bravo,GK,80,39,Chile,Real Betis
+Marc Bartra,DEF,77,32,Spain,Real Betis
+Victor Ruiz,DEF,75,34,Spain,Real Betis
+Gonzalo Montiel,DEF,78,28,Argentina,Real Betis
+Guido Rodriguez,MID,80,30,Argentina,Real Betis
+Nabil Fekir,MID,82,30,France,Real Betis
+Sergio CanalesDup,MID,84,31,Spain,Real Betis
+Borja Iglesias,FWD,77,30,Spain,Real Betis
+Alex Moreno,DEF,77,31,Spain,Real Betis
+Juanmi,FWD,76,31,Spain,Real Betis
+Ayoze Perez,MID,76,29,Spain,Real Betis
+Diego Lainez,MID,73,23,Mexico,Real Betis
+Marc BartraDup,DEF,70,32,Spain,Real Betis
+William Carvalho,MID,78,31,Portugal,Real Betis
+Victor Camarasa,MID,71,30,Spain,Real Betis
+Gonzalo,FWD,69,22,Argentina,Real Betis
+Francisco Alarcon,FWD,70,23,Spain,Real Betis
+Ismael,DEF,69,21,Spain,Real Betis
+Thibaut Courtois,GK,89,31,Belgium,Real Madrid
+Andriy Lunin,GK,78,24,Ukraine,Real Madrid
+Dani Carvajal,DEF,83,31,Spain,Real Madrid
+Eder Militao,DEF,86,25,Brazil,Real Madrid
+David Alaba,DEF,85,31,Austria,Real Madrid
+Antonio Rudiger,DEF,86,30,Germany,Real Madrid
+Ferland Mendy,DEF,82,28,France,Real Madrid
+Nacho Fernandez,DEF,81,33,Spain,Real Madrid
+Fran Garcia,DEF,79,24,Spain,Real Madrid
+Aurelien Tchouameni,MID,83,23,France,Real Madrid
+Eduardo Camavinga,MID,82,21,France,Real Madrid
+Toni Kroos,MID,86,33,Germany,Real Madrid
+Luka Modric,MID,87,38,Croatia,Real Madrid
+Federico Valverde,MID,85,25,Uruguay,Real Madrid
+Jude Bellingham,MID,88,20,England,Real Madrid
+Brahim Diaz,MID,80,24,Spain,Real Madrid
+Dani Ceballos,MID,79,27,Spain,Real Madrid
+Arda Guler,MID,77,18,Turkey,Real Madrid
+Vinicius Junior,FWD,89,23,Brazil,Real Madrid
+Rodrygo,FWD,85,22,Brazil,Real Madrid
+Alex Remiro,GK,79,29,Spain,Real Sociedad
+Andoni Zubizarreta,GK,70,22,Spain,Real Sociedad
+Robin Le Normand,DEF,82,27,France,Real Sociedad
+Aihen Munoz,DEF,75,26,Spain,Real Sociedad
+Diego Rico,DEF,74,31,Spain,Real Sociedad
+Alexander Sorloth,FWD,78,27,Norway,Real Sociedad
+Martin Odegaard,MID,88,25,Norway,Real Sociedad
+Mikel Oyarzabal,FWD,85,26,Spain,Real Sociedad
+Takefusa KuboDup,MID,83,22,Japan,Real Sociedad
+Brais MendezDup,MID,79,27,Spain,Real Sociedad
+Mikel Merino,MID,82,27,Spain,Real Sociedad
+Aritz Elustondo,DEF,76,30,Spain,Real Sociedad
+Jon Guridi,MID,73,26,Spain,Real Sociedad
+Carlos Fernandez,FWD,72,25,Spain,Real Sociedad
+Ander Barrenetxea,FWD,73,22,Spain,Real Sociedad
+Aihen MunozDup,DEF,70,26,Spain,Real Sociedad
+Joseba Zaldua,DEF,74,31,Spain,Real Sociedad
+Igor Zubeldia,MID,76,26,Spain,Real Sociedad
+Diego RicoDup,DEF,69,31,Spain,Real Sociedad
+Mario HermosoDup,DEF,70,29,Spain,Real Sociedad
+Yassine BounouDup,GK,83,33,Morocco,Sevilla
+Marko Dmitrovic,GK,80,33,Serbia,Sevilla
+Jules KoundeDup,DEF,84,25,France,Sevilla
+Diego Carlos,DEF,82,30,Brazil,Sevilla
+Aleix VidalDup,DEF,74,31,Spain,Sevilla
+Jesus Navas,DEF,76,38,Spain,Sevilla
+Ivan Rakitic,MID,78,35,Croatia,Sevilla
+Joan Jordan,MID,77,27,Spain,Sevilla
+Suso,MID,76,29,Spain,Sevilla
+Munir El Haddadi,FWD,75,28,Spain,Sevilla
+Youssef En-Nesyri,FWD,80,27,Morocco,Sevilla
+Carlos FernandezDup,FWD,72,25,Spain,Sevilla
+Ocampos,FWD,78,29,Argentina,Sevilla
+Fernando,MID,74,33,Brazil,Sevilla
+Gudelj,MID,73,31,Serbia,Sevilla
+RakiticDup,MID,70,35,Croatia,Sevilla
+Kike Salas,DEF,70,21,Spain,Sevilla
+Bono,GK,81,34,Morocco,Sevilla
+Sergio Reguilon,DEF,78,26,Spain,Sevilla
+Gonzalo MontielDup,DEF,70,28,Argentina,Sevilla
+Jose Gayà,DEF,82,27,Spain,Valencia
+Hugo Guillamon,DEF,76,23,Spain,Valencia
+Diakhaby,DEF,73,28,France,Valencia
+Marko DmitrovicDup,GK,70,33,Serbia,Valencia
+Goncalo Guedes,MID,78,25,Portugal,Valencia
+Hugo Duro,FWD,74,23,Spain,Valencia
+Maxi Gomez,FWD,78,27,Uruguay,Valencia
+Carlos Soler,MID,81,26,Spain,Valencia
+Joaquin,MID,71,37,Spain,Valencia
+Denis Cheryshev,MID,74,31,Spain,Valencia
+Dani Parejo,MID,76,34,Spain,Valencia
+Gabriel Paulista,DEF,76,31,Brazil,Valencia
+Lino,FWD,72,24,Brazil,Valencia
+Javi Guerra,FWD,69,33,Spain,Valencia
+Samuel LinoDup,FWD,70,24,Brazil,Valencia
+Johan Mojica,DEF,73,30,Colombia,Valencia
+Iban Salvador,FWD,69,30,Spain,Valencia
+Pepe Reina,GK,68,42,Spain,Valencia
+Kang-in LeeDup,MID,70,22,South Korea,Valencia
+Oller,DEF,68,21,Spain,Valencia
+Geronimo Rulli,GK,83,31,Argentina,Villarreal
+Arnaut Danjuma,FWD,79,26,Netherlands,Villarreal
+Pau Torres,DEF,82,26,Spain,Villarreal
+Alfonso Pedraza,DEF,76,27,Spain,Villarreal
+Mario Gaspar,DEF,75,31,Spain,Villarreal
+Dani ParejoDup,MID,76,34,Spain,Villarreal
+Moi Gomez,MID,74,28,Spain,Villarreal
+Samuel Chukwueze,FWD,79,24,Nigeria,Villarreal
+Yeremi Pino,FWD,81,19,Spain,Villarreal
+Carlos Bacca,FWD,74,34,Colombia,Villarreal
+Pervis EstupinanDup,DEF,80,26,Ecuador,Villarreal
+Artem Dovbyk,FWD,75,24,Ukraine,Villarreal
+Francisco Trincao,FWD,74,23,Portugal,Villarreal
+Etienne Capoue,MID,75,34,France,Villarreal
+Manu Trigueros,MID,76,30,Spain,Villarreal
+Alberto Moreno,DEF,76,31,Spain,Villarreal
+Gerard Moreno,FWD,82,30,Spain,Villarreal
+Raul Albiol,DEF,80,36,Spain,Villarreal
+Javi OntiverosDup,FWD,70,24,Spain,Villarreal
+Ivan Fresneda,DEF,69,19,Spain,Villarreal
