@@ -4,6 +4,8 @@ import dotenv from "dotenv";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 import predictRoutes from "./routes/predictRoutes.js";
+import playerRoutes from "./routes/playerRoutes.js";
+import teamRoutes from "./routes/teamRoutes.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -15,5 +17,7 @@ app.use(cors());
 app.use(express.json());
 
 app.use("/api", predictRoutes);
+app.use("/api", playerRoutes);
+app.use("/api", teamRoutes);
 
 export default app;

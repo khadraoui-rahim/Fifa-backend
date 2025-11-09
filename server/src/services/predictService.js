@@ -2,17 +2,19 @@ import { groqPredict } from "../utils/groqClient.js";
 
 export const getMatchPrediction = async (teamA, teamB) => {
     const prompt = `
-Predict the result of this football match:
+You are a football match predictor. Predict the final score for this match:
 
-Team A: ${teamA.name}
-Attack: ${teamA.attack}, Defense: ${teamA.defense}, Form: ${teamA.form}
+${teamA} vs ${teamB}
 
-Team B: ${teamB.name}
-Attack: ${teamB.attack}, Defense: ${teamB.defense}, Form: ${teamB.form}
+Respond in this exact format:
+Score: X-Y
+Description: [2-3 sentences describing the key moments and outcome of the match]
 
-Respond with a predicted score and a 1-sentence analysis.
+Example:
+Score: 2-1
+Description: An intense match where Barcelona dominated possession in the first half, scoring twice through clinical finishing. Real Madrid pulled one back late but couldn't find the equalizer despite sustained pressure.
 `;
 
     const result = await groqPredict(prompt);
-    return result;
+    return result.trim();
 };

@@ -1,0 +1,17 @@
+### Get players by team (URL param - requires %20 for spaces)
+GET http://localhost:5000/api/players/team/Athletic%20Club
+
+### Get players by team (Query param - cleaner with spaces)
+GET http://localhost:5000/api/players?team=Athletic Club
+
+### Get player by name (Query param - supports partial match)
+GET http://localhost:5000/api/players?name=Nico Williams
+
+### Get all forwards with minimum rating 75
+GET http://localhost:5000/api/players?position=FWD&minOverall=75
+
+### Get Spanish midfielders
+GET http://localhost:5000/api/players?position=MID&nationality=Spain
+
+### Get all players
+GET http://localhost:5000/api/players
